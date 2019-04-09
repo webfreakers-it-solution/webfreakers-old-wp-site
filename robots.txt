@@ -1,0 +1,62 @@
+sitemap: https://www.webfreakers.com/sitemap_index.xml
+User-agent: Twitterbot
+Disallow: *
+Allow: /wp-content/uploads/*
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /adas/
+Disallow:/medica.gq/
+Disallow: /nothing/
+Disallow: /temp/
+Disallow: /client89/
+Disallow: /CRM/
+Disallow: /ecommerce/
+Disallow: /eventspace.cf/
+Disallow: /forum/
+Disallow: /hrm/
+Disallow: /info/
+Disallow: /invoice/
+Disallow: /stock/
+Disallow: /jobnom.tk/
+Disallow: /php_email/
+Disallow: /sampad/
+Disallow: /slider_new/
+Disallow: /sudip/
+Disallow: /support/
+Disallow: /webfreakers-ecommerce.tk/
+Disallow: /webfreakers-for-clients.tk/
+Disallow: /webfreakers-forum.tk/
+Disallow: /webfreakers-woocommerce.cf/
+Disallow: /webfreakers-wordpress.tk/
+Disallow: /webleverage.tk/
+Disallow: /readme.html
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Allow: /wp-content/uploads/2017/06/8.png
+Disallow: /wp-content/uploads/
+Disallow: /archives/
+Disallow: /*?*
+Disallow: *?replytocom
+Disallow: /wp-*
+Disallow: /author
+Disallow: /comments/feed/
+Disallow: /wp-content/cache
+Disallow: /category/*/*
+Disallow: */trackback
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*~*
+Disallow: /*~
+User-agent: Mediapartners-Google*
+Allow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Googlebot-Mobile
+Allow: /
+User-agent: Googlebot
+Allow: /
+
+
+
